@@ -3,7 +3,7 @@
 
 Name:           lomoco1.0
 Version:        1.0
-Release:        %mkrel 3
+Release:        %mkrel 4
 Summary:        Logitech mouse control tool
 License:        GPL
 Group:          System/Configuration/Hardware
