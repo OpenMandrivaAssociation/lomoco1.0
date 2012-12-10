@@ -66,3 +66,23 @@ iFeel Mouse
 %defattr(0644,root,root,0755)
 %attr(0755,root,root) %{_bindir}/lomoco
 %{_mandir}/man1/lomoco.1*
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 1.0-6mdv2011.0
++ Revision: 620256
+- the mass rebuild of 2010.0 packages
+
+* Tue Sep 08 2009 Thierry Vignaud <tv@mandriva.org> 1.0-5mdv2010.0
++ Revision: 433732
+- rebuild
+
+* Mon Jul 28 2008 Thierry Vignaud <tv@mandriva.org> 1.0-3mdv2009.0
++ Revision: 251375
+- rebuild
+
+* Fri Feb 08 2008 David Walluck <walluck@mandriva.org> 1.0-1mdv2008.1
++ Revision: 164320
+- import lomoco1.0
+
+
