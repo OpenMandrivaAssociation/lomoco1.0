@@ -7,7 +7,7 @@ Release:        %mkrel 6
 Summary:        Logitech mouse control tool
 License:        GPL
 Group:          System/Configuration/Hardware
-URL:            http://www.lomoco.org/
+URL:            https://www.lomoco.org/
 Source0:        http://www.lomoco.org/lomoco-%{version}.tar.gz
 BuildRequires:  libusb-devel
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
