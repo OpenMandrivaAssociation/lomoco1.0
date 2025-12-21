@@ -9,6 +9,7 @@ License:        GPL
 Group:          System/Configuration/Hardware
 URL:            https://www.lomoco.org/
 Source0:        http://www.lomoco.org/lomoco-%{version}.tar.gz
+BuildRequires:	make
 BuildRequires:  libusb-devel
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 
